@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "letter-grade-calculator-Nash-Finkbeiner-Student", "letter-grade-calculator-Nash-Finkbeiner-Student.csproj", "{5245097B-89B8-4416-BF89-3E67747D3DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5245097B-89B8-4416-BF89-3E67747D3DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5245097B-89B8-4416-BF89-3E67747D3DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5245097B-89B8-4416-BF89-3E67747D3DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5245097B-89B8-4416-BF89-3E67747D3DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ABE9038-A57D-43ED-85D4-E30CE6B91705}
+	EndGlobalSection
+EndGlobal
